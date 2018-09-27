@@ -1,5 +1,5 @@
 'use strict';
-// $(function() {
+$(function() {
 
     function Button(text) {
         this.text = text || 'Hello';
@@ -25,5 +25,5 @@
     btn2.create();
     btn3.create();
 
-// });
+});
 
